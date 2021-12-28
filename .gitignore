@@ -1,0 +1,14 @@
+.*.swp
+.*.swo
+.*.DS_Store
+
+src/vendor
+vendor
+bin
+logs
+.idea
+.vscode
+conf/me
+deploy.sh
+src/cmd
+tags
